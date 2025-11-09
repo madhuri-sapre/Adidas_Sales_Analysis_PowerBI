@@ -63,11 +63,6 @@ These filters allow the user to dynamically explore sales insights for any regio
 •	A professional, user-friendly interface for strategic business analysis <br />
 
 
-# Repository Structure (GitHub):
-•	Data: <a href "https://github.com/mayu45/Adidas_Sales_Analysis_PowerBI/blob/main/Adidas%20US%20Sales%20Datasets.xlsx"</a> <br />
-•	Dashboard: <a href "https://github.com/mayu45/Adidas_Sales_Analysis_PowerBI/blob/main/Adidas_Sales_Analysis_PowerBI.pbix"> <br />
-
-
 # Output Screenshot
 <img width="1309" height="739" alt="Screenshot 2025-11-09 004554" src="https://github.com/user-attachments/assets/34f53498-542e-48ec-bd11-b5dead2f4b51" />
 
